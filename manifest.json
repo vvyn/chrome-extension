@@ -1,0 +1,11 @@
+{
+    "name": "Random Cat Facts",
+    "version": "1.0.0",
+    "description": "shows random cat facts from an api",
+    "manifest_version": 3,
+    "author": "Vicky Vyn",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Random Cat Fact"
+    }
+}

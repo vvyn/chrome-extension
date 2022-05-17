@@ -1,0 +1,11 @@
+body {
+    font-size: 18px;
+    width: max-content;
+    background-color: rgb(190, 169, 207);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(70, 12, 124);
+}
