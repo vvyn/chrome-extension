@@ -1,4 +1,5 @@
-# chrome-extension
-attempt at creating a chrome extension
+# daily-cat-extension
 
-- shows random cat facts from an api
+- attempt at creating a chrome extension
+- shows a random cat fact and image from an api 
+- uses HTML, CSS, JS
