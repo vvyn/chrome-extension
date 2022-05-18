@@ -1,11 +1,14 @@
 {
-    "name": "Random Cat Facts",
+    "name": "Daily Cat",
     "version": "1.0.0",
-    "description": "shows random cat facts from an api",
+    "description": "shows daily cat fact and gif",
     "manifest_version": 3,
     "author": "Vicky Vyn",
     "action":{
         "default_popup": "index.html",
-        "default_title": "Random Cat Fact"
+        "default_title": "Daily Cat"
+    },
+    "icons":{
+        "32": "cat-icon.png"
     }
 }

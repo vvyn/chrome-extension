@@ -1,11 +1,26 @@
 body {
     font-size: 18px;
-    width: max-content;
-    background-color: rgb(190, 169, 207);
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    width: 350px;
+    background-color: rgb(251, 228, 190);
+    font-family: monospace;
+    text-align: center;
 }
 
 h2 {
-    font-size: 30px;
-    color: rgb(70, 12, 124);
+    font-size: 35px;
+    color: rgb(246, 140, 70);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+
+#cat-fact {
+    margin-bottom: 30px;
+}
+
+#cat-img {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
 }

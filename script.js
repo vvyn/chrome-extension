@@ -1,5 +1,6 @@
 async function fetchData() {
-    const res = await fetch ("https://cat-fact.herokuapp.com/facts");
-    const record=await res.json();
-    document.getElementById("rf1").innerHTML= record[0].text;}
+    const res1 = await fetch ("https://cat-fact.herokuapp.com/facts");
+    const record1 = await res1.json();
+    document.getElementById("cat-fact").innerHTML= record1[1].text;
+}
 fetchData();
